@@ -12,7 +12,7 @@ Curt is running the project and will be lead developer. Sheila is the executive 
 
 Run of Show:
 
-#### Pre-build window > April 9 - May 1
+#### Pre-build window (April 9)
 
 **Kinsta config (Jeff/Curt)**
 
@@ -50,7 +50,7 @@ Run of Show:
 
 \- Modules
 
-#### Build window opens > May 1 - July 31
+#### Build window opens (May 1)
 
 \- Categories
 
@@ -58,9 +58,9 @@ Run of Show:
 
 \- Page types
 
-#### Internal preview > Aug 1
+#### Internal preview (Aug 1)
 
-#### Beta site available > Sept 1
+#### Beta site available (Sept 1)
 
 ```bash
 ```
