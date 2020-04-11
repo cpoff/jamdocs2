@@ -9,9 +9,9 @@ This is the homepage for the RTA Rebuild project.
 ## Who does what?
 
 * Curt is running the project and will be lead developer
-* Sheila is the executive sponsor
-* Kristin is the lead design resource
-* Jeff will be in charge of system administration.
+* Sheila: executive sponsor
+* Kristin: lead design resource
+* Jeff will be in charge of system administration and domain management
 
 #### Pre-build window (April 9)
 
