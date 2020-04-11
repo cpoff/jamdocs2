@@ -9,7 +9,8 @@ Since there is a bright and a dark theme in Jamdocs, you will need two logotypes
 
 ```html
 <div id="alertModule">
-<style type="text/css">.alertRed {
+<style type="text/css">
+  .alertRed {
     padding: 8px 15px 8px 14px;
     margin-bottom: 18px;
     color: #000000;
