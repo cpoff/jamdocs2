@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "New",
+      "topics": [
+        {
+          "title": "Slappin'",
+          "slug": "slappin-happens"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
