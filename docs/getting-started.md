@@ -4,8 +4,6 @@ date: 2020-04-11
 slug: rta-rebuild
 
 ---
-## RTA Rebuild
-
 This is the homepage for the RTA Rebuild project.
 
 ## Who does what?
