@@ -10,7 +10,7 @@ This is the homepage for the RTA Rebuild project.
 
 Curt is running the project and will be lead developer. Sheila is the executive sponsor. Kristin is the lead design resource. Jeff will be in charge of system administration.
 
-Here's the Run of Show:
+Run of Show:
 
 #### Pre-build window > April 9 - May 1
 
