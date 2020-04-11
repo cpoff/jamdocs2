@@ -4,9 +4,7 @@
 			<h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
 			<nav>
 				<!-- To use other icons here, you need to import them in the Shortcut component -->
-				<Shortcut link="/rta-rebuild" text="RTA Rebuild" icon="play-icon" />
-				<Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-				<Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+				<Shortcut link="/rta-rebuild" text="RTA Rebuild" icon="sliders-icon" />
 			</nav>
 			<GitLink class="git" size="large" />
 		</div>
@@ -28,8 +26,7 @@
 	  },
 	  data() {
 	    return {
-	      description:
-	        "The ultimate static generated documentation theme for the JAM-stack"
+	      description: "Homepage for the RTA Rebuild project"
 	    };
 	  },
 	  metaInfo() {
