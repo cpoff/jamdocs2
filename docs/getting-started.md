@@ -1,21 +1,68 @@
 ---
-title: Getting started
-date: 2018-09-15 07:42:34
-slug: getting-started
+title: RTA Rebuild
+date: 2020-04-11
+slug: rta-rebuild
+
 ---
+## RTA Rebuild
 
-## What is Jamdocs
+This is the homepage for the RTA Rebuild project.
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+## Who does what?
 
-## Local installation
+Curt is running the project and will be lead developer. Sheila is the executive sponsor. Kristin is the lead design resource. Jeff will be in charge of system administration.
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
+Here's the Run of Show:
 
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
+#### Pre-build window > April 9 - May 1
+
+**Kinsta config (Jeff/Curt)**
+
+\- Site/network structure
+
+\- Domains (with PAG lookahead)
+
+\- SSL, Force HTTPS
+
+\- DNS
+
+\- CDN
+
+\- Redirect rules
+
+\- Migration?
+
+**WordPress config (Curt)**
+
+\- Network
+
+\- Themes
+
+\- Plug-ins
+
+\- Users
+
+\- Sites
+
+**Design kit (Kristin)**
+
+\- Style guide & palettes
+
+\- Components
+
+\- Modules
+
+#### Build window opens > May 1 - July 31
+
+\- Categories
+
+\- Index pages
+
+\- Page types
+
+#### Internal preview > Aug 1
+
+#### Beta site available > Sept 1
 
 ```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
 ```
