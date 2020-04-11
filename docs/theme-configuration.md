@@ -1,16 +1,42 @@
 ---
 title: Design Toolkit
 date: 2018-09-15T07:42:34.000+00:00
-slug: toolkit
+slug: design
 
 ---
-## Test block
+## Components
 Since there is a bright and a dark theme in Jamdocs, you will need two logotypes. Just replace the two svg files in `src/assets/img` where the dark on is named `logo-dark.svg` and the bright one is named `logo-bright.svg`. If you can´t provide SVG logos, you can just change the file format to for example PNG in line 5 and 10 `src/components/Logo.vue`.
 
+### Alert module
 ```html
-<div>
- 	<table>
- 	</table>
+<div id="alertModule">
+<style type="text/css">
+  .alertRed {
+    padding: 8px 15px 8px 14px;
+    margin-bottom: 18px;
+    color: #000000;
+    background-color: #fff;
+    border: 0px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.alertRed .alert-link {
+    color: blue;
+}
+
+.alertRed-heading {
+    color: inherit;
+}
+</style>
+  
+<div class="alertRed">
+<p style="text-align: center;"><a href="/Default.aspx?tabid=84" target="_blank"><img alt="" src="/portals/0/images/MAGtool233.jpg" style="width: 200px;" /></a></p>
+
+<p style="color:#000;text-align: center;"><b>Arizona Healthcare Assets Map</b>: A web-based, map viewer tool developed by Maricopa Association of Governments, PAG's peer organization in Phoenix, includes helpful COVID-19 data for our region.<br />
+<strong><a class="alert-link" href="/Default.aspx?tabid=84" target="_blank">Read more &raquo;</a></strong></p>
+</div>
 </div>
 ```
 
