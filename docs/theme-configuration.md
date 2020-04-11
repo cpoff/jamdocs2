@@ -1,7 +1,7 @@
 ---
 title: Design Toolkit
 date: 2018-09-15T07:42:34.000+00:00
-slug: toolkit
+slug: design
 
 ---
 ## Components
