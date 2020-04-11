@@ -26,7 +26,7 @@
 	  },
 	  data() {
 	    return {
-	      description: "Homepage for the RTA Rebuild project"
+	      description: "project homepage"
 	    };
 	  },
 	  metaInfo() {
