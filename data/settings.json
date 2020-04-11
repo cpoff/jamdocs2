@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "New",
-      "topics": [
-        {
-          "title": "Slappin'",
-          "slug": "slappy-mcbutters"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
