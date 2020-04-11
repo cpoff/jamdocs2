@@ -29,6 +29,7 @@ Since there is a bright and a dark theme in Jamdocs, you will need two logotypes
     color: inherit;
 }
 </style>
+  
 <div class="alertRed">
 <p style="text-align: center;"><a href="/Default.aspx?tabid=84" target="_blank"><img alt="" src="/portals/0/images/MAGtool233.jpg" style="width: 200px;" /></a></p>
 
