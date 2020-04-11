@@ -15,7 +15,7 @@ This is the homepage for the RTA Rebuild project.
 
 #### Pre-build window (April 9)
 
-**Kinsta config (Jeff/Curt)**
+**Kinsta configuration (Jeff/Curt)**
 
 \- Site/network structure
 
@@ -31,7 +31,7 @@ This is the homepage for the RTA Rebuild project.
 
 \- Migration?
 
-**WordPress config (Curt)**
+**WordPress configuration (Curt)**
 
 \- Network
 
@@ -45,7 +45,7 @@ This is the homepage for the RTA Rebuild project.
 
 **Design kit (Kristin)**
 
-\- Style guide & palettes
+\- Style guide
 
 \- Components
 
