@@ -4,11 +4,9 @@ date: 2020-04-11
 slug: rta-rebuild
 
 ---
-This is the homepage for the RTA Rebuild project.
-
 ## Who does what?
 
-* Curt is running the project and will be lead developer
+* Curt is running the project, lead developer, WordPress owner
 * Kristin: lead design resource
 * Jeff: system administration, domain/DNS management
 
@@ -50,7 +48,7 @@ This is the homepage for the RTA Rebuild project.
 
 \- Modules
 
-#### Build window opens (May 1)
+## Build window opens (May 1)
 
 \- Categories
 
