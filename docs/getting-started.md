@@ -12,7 +12,7 @@ This is the homepage for the RTA Rebuild project.
 * Kristin: lead design resource
 * Jeff: system administration, domain/DNS management
 
-#### Pre-build window (April 9)
+## Pre-build window (April 9)
 
 **Kinsta configuration (Jeff/Curt)**
 
@@ -58,9 +58,9 @@ This is the homepage for the RTA Rebuild project.
 
 \- Page types
 
-#### Internal preview (Aug 1)
+## Internal preview (Aug 1)
 
-#### Beta site available (Sept 1)
+## Beta site available (Sept 1)
 
 ```bash
 ```
