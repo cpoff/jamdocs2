@@ -4,14 +4,13 @@ date: 2020-04-11
 slug: rta-rebuild
 
 ---
-## Who does what?
 
+## Who does what?
 * Curt is running the project, lead developer, WordPress owner
 * Kristin: lead design resource
 * Jeff: domain/DNS management
 
 ## Pre-build window (April 9)
-
 **Kinsta configuration (Jeff/Curt)**
 
 \- Site/network structure
