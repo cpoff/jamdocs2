@@ -16,7 +16,7 @@ slug: run-of-show
 
 \- Site/network structure
 
-\- Domains (with PAG lookahead)
+\- Domains with PAG lookahead (See [domain plan](/domain-plan))
 
 \- SSL, Force HTTPS
 
