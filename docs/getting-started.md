@@ -8,7 +8,7 @@ slug: rta-rebuild
 
 * Curt is running the project, lead developer, WordPress owner
 * Kristin: lead design resource
-* Jeff: system administration, domain/DNS management
+* Jeff: domain/DNS management
 
 ## Pre-build window (April 9)
 
