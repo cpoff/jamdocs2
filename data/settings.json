@@ -19,6 +19,10 @@
         {
           "title": "Code",
           "slug": "code-extras"
+        },
+        {
+        "title": "Domain/DNS",
+        "slug": "domain-dns"
         }
       ]
     }
