@@ -2,8 +2,12 @@
 title: RTA Rebuild
 date: 2020-04-11
 slug: run-of-show
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> ccc0ab359033cb97ed7c9533e962c51f769b7d77
 
+---
 ## Who does what?
 
 - Curt is running the project, lead developer, WordPress owner
@@ -60,8 +64,12 @@ slug: run-of-show
 
 ## Internal preview (Aug 1)
 
+<<<<<<< HEAD
 ## Beta site available (Sept 1)
 
 ```bash
 
 ```
+=======
+## Beta site available (Sept 1)
+>>>>>>> ccc0ab359033cb97ed7c9533e962c51f769b7d77
