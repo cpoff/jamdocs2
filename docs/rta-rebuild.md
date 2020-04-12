@@ -1,7 +1,7 @@
 ---
 title: RTA Rebuild
 date: 2020-04-11
-slug: rta-rebuild
+slug: run-of-show
 ---
 
 ## Who does what?
@@ -10,6 +10,7 @@ slug: rta-rebuild
 - Kristin: lead design resource
 - Jeff: domain/DNS management
 
+```text
 ## Pre-build window (April 9)
 
 **Kinsta configuration (Jeff/Curt)**
@@ -47,6 +48,7 @@ slug: rta-rebuild
 \- Components
 
 \- Modules
+```
 
 ## Build window opens (May 1)
 
@@ -59,3 +61,7 @@ slug: rta-rebuild
 ## Internal preview (Aug 1)
 
 ## Beta site available (Sept 1)
+
+```bash
+
+```
