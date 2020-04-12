@@ -9,7 +9,7 @@ slug: rta-rebuild
 * Curt is running the project, lead developer, WordPress owner
 * Kristin: lead design resource
 * Jeff: domain/DNS management
-`
+
 ## Pre-build window (April 9)
 
 **Kinsta configuration (Jeff/Curt)**
@@ -47,9 +47,7 @@ slug: rta-rebuild
 \- Components
 
 \- Modules
-`
 
-`
 ## Build window opens (May 1)
 
 \- Categories
@@ -57,14 +55,10 @@ slug: rta-rebuild
 \- Index pages
 
 \- Page types
-`
 
-`
 ## Internal preview (Aug 1)
-`
 
-`
 ## Beta site available (Sept 1)
-`
+
 ```bash
 ```
