@@ -14,11 +14,11 @@
       "topics": [
         {
           "title": "Design",
-          "slug": "design"
+          "slug": "design-components"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Code",
+          "slug": "code-extras"
         }
       ]
     }
