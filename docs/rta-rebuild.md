@@ -1,9 +1,9 @@
 ---
 title: RTA Rebuild
 date: 2020-04-11
-slug: rta-rebuild
----
+slug: run-of-show
 
+---
 ## Who does what?
 
 - Curt is running the project, lead developer, WordPress owner
