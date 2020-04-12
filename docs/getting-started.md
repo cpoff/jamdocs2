@@ -10,7 +10,7 @@ slug: rta-rebuild
 * Kristin: lead design resource
 * Jeff: domain/DNS management
 
-```text
+
 ## Pre-build window (April 9)
 
 **Kinsta configuration (Jeff/Curt)**
@@ -48,7 +48,6 @@ slug: rta-rebuild
 \- Components
 
 \- Modules
-```
 
 ## Build window opens (May 1)
 
