@@ -4,7 +4,7 @@
 			<h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
 			<nav>
 				<!-- To use other icons here, you need to import them in the Shortcut component -->
-				<Shortcut link="/rta-rebuild" text="RTA Rebuild" icon="sliders-icon" />
+				<Shortcut link="/run-of-show" text="Run of Show" icon="sliders-icon" />
 			</nav>
 			<GitLink class="git" size="large" />
 		</div>

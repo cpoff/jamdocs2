@@ -1,20 +1,15 @@
 ---
-title: RTA Rebuild
+title: Run of Show
 date: 2020-04-11
 slug: run-of-show
-<<<<<<< HEAD
 ---
-=======
->>>>>>> ccc0ab359033cb97ed7c9533e962c51f769b7d77
 
----
 ## Who does what?
 
-- Curt is running the project, lead developer, WordPress owner
+- Curt: project & development lead, WordPress owner
 - Kristin: lead design resource
 - Jeff: domain/DNS management
 
-```text
 ## Pre-build window (April 9)
 
 **Kinsta configuration (Jeff/Curt)**
@@ -52,7 +47,6 @@ slug: run-of-show
 \- Components
 
 \- Modules
-```
 
 ## Build window opens (May 1)
 
@@ -64,12 +58,8 @@ slug: run-of-show
 
 ## Internal preview (Aug 1)
 
-<<<<<<< HEAD
 ## Beta site available (Sept 1)
 
 ```bash
 
 ```
-=======
-## Beta site available (Sept 1)
->>>>>>> ccc0ab359033cb97ed7c9533e962c51f769b7d77
