@@ -6,11 +6,11 @@ slug: design-components
 
 ## Style guide
 
-The style guide will reflect design specifications in CSS/HTML format. Kristin will also produce the CSS assets and circulated amongst internal stakeholders.
+This portion of the site will eventually reflect the style guide and specifications in CSS/HTML format. Kristin will produce the CSS assets.
 
 ## Components
 
-The Alert Module entry coming up next is a reflection of how this will be displayed on this site. 
+Curt will produce the HTML assets that the CSS will style. The CSS code for each of those components will be housed in this section. The Alert Module entry coming up next - and the rest of the placeholder text here - is a reflection of how this will be displayed on this site.
 
 ### Alert module
 
