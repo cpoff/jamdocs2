@@ -32,12 +32,12 @@ export default function(Vue, { router, head, isClient, appOptions }) {
 
 	head.meta.push({
 		name: 'robots',
-		content: 'noindex',
+		content: 'noindex,nofollow',
 	});
 
 	head.meta.push({
 		name: 'googlebot',
-		content: 'noindex',
+		content: 'noindex,nofollow',
 	});
 
 	head.meta.push({
