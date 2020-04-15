@@ -15,6 +15,16 @@ export default function(Vue, { router, head, isClient, appOptions }) {
 	// Add attributes to HTML tag
 	head.htmlAttrs = { lang: 'en' };
 
+	head.meta.push({
+		name: 'robots',
+		content: 'noindex,nofollow',
+	});
+
+	head.meta.push({
+		name: 'googlebot',
+		content: 'noindex,nofollow',
+	});
+
 	head.link.push({
 		rel: 'manifest',
 		href: '/manifest.json',
@@ -28,16 +38,6 @@ export default function(Vue, { router, head, isClient, appOptions }) {
 	head.meta.push({
 		name: 'google-site-verification',
 		content: process.env.GSV_META,
-	});
-
-	head.meta.push({
-		name: 'robots',
-		content: 'noindex,nofollow',
-	});
-
-	head.meta.push({
-		name: 'googlebot',
-		content: 'noindex,nofollow',
 	});
 
 	head.meta.push({
