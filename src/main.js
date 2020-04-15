@@ -31,6 +31,16 @@ export default function(Vue, { router, head, isClient, appOptions }) {
 	});
 
 	head.meta.push({
+		name: 'robots',
+		content: 'noindex',
+	});
+
+	head.meta.push({
+		name: 'googlebot',
+		content: 'noindex',
+	});
+
+	head.meta.push({
 		name: 'apple-mobile-web-app-status-bar-style',
 		content: 'default',
 	});
