@@ -1,7 +1,7 @@
 ---
 title: Curt's Awesomeness
 date: 2020-04-16
-slug: about
+slug: awesome
 
 ---
 [Australian Government Design System](https://designsystem.gov.au/components/)
