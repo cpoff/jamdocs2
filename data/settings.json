@@ -1,11 +1,18 @@
 {
   "sidebar": [
+  "sidebar": [
     {
       "section": "Introduction",
       "topics": [
         {
           "title": "Run of Show",
           "slug": "run-of-show"
+        }
+      ]
+      "topics": [
+        {
+          "title": "Cool Stuff",
+          "slug": "Coolio"
         }
       ]
     },
@@ -21,8 +28,8 @@
           "slug": "code-extras"
         },
         {
-        "title": "Domain/DNS",
-        "slug": "domain-dns"
+          "title": "Domain/DNS",
+          "slug": "domain-dns"
         }
       ]
     }

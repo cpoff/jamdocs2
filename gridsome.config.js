@@ -43,6 +43,25 @@ module.exports = {
 				cacheTime: 600000,
 			},
 		},
+
+		{
+			use: 'gridsome-plugin-robots-txt',
+			options: {
+				host: 'https://vibrant-easley-0a75ca.netlify.app/',
+				policy: [
+					{
+						userAgent: 'Googlebot',
+						disallow: '/',
+						crawlDelay: 2,
+					},
+					{
+						userAgent: '*',
+						disallow: '/',
+						crawlDelay: 10,
+					},
+				],
+			},
+		},
 	],
 	chainWebpack: config => {
 		const types = ['vue-modules', 'vue', 'normal-modules', 'normal'];
