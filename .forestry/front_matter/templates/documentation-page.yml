@@ -15,5 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/about.md
+- docs/cool-stuff.md
 - docs/curt-s-awesomeness.md
