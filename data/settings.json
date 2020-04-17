@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Curt's Awesomeness",
+      "topics": [
+        {
+          "title": "Cool Stuff",
+          "slug": "coolio"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
