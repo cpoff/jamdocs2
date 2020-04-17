@@ -1,18 +1,15 @@
 {
   "sidebar": [
-  "sidebar": [
     {
       "section": "Introduction",
       "topics": [
         {
+          "title": "Cool Stuff",
+          "slug": "coolio"
+        },
+        {
           "title": "Run of Show",
           "slug": "run-of-show"
-        }
-      ]
-      "topics": [
-        {
-          "title": "Cool Stuff",
-          "slug": "Coolio"
         }
       ]
     },
