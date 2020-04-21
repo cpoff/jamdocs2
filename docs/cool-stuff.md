@@ -10,6 +10,8 @@ slug: coolio
 
 [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
 
+[CodePen](https://codepen.io/pen/?editors=1100) - HTML/CSS/JS sandboxing tool
+
 **Wireframing**
 
 [Top 15 Free Web Page Wireframe Kits](https://colorlib.com/wp/free-web-page-wireframe-kits/)
