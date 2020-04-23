@@ -21,3 +21,5 @@ slug: coolio
 [Australian Government Design System](https://designsystem.gov.au/get-started/)
 
 [Static site blog style](https://goofy-wescoff-c2d4fd.netlify.app/styleguide/)
+
+[Basic Bootstrap components](https://afterimagedesigns.com/wp-bootstrap-starter/components/)
