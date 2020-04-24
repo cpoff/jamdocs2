@@ -6,7 +6,14 @@ slug: design-components
 
 ## Style guide
 
-This portion of the site will eventually reflect the style guide and specifications in CSS/HTML format. Kristin will produce the CSS assets.
+This portion of the site will eventually reflect the style guide and specifications in CSS/HTML format. Look for a style tile to go here in the coming weeks.
+
+Kristin will also produce these CSS assets in Generate Press:
+
+[RTA Main](http://rtamain.pagrtahost.kinsta.cloud/wp-content/themes/generatepress/style.css)<br>
+[RTA Next](http://rtanext.pagrtahost.kinsta.cloud/wp-content/themes/generatepress/style.css)
+
+Several base styles are also controlled via GP's Customize controls.
 
 ## Components
 
