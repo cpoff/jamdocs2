@@ -6,7 +6,7 @@ slug: design-components
 
 ## Style guide
 
-This portion of the site will eventually reflect the style guide and specifications in CSS/HTML format. Look for a style tile to go here in the coming weeks.
+This portion of the site will reflect the style guide and specifications in CSS/HTML format. Look for a style tile to go here in the coming days.
 
 Kristin will also produce these CSS assets in Generate Press:
 
