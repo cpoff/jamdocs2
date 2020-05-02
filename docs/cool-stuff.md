@@ -6,7 +6,7 @@ slug: coolio
 
 **Tools**
 
-[Brackets](http://brackets.io/) - HTML & CSS editor
+[Brackets](http://brackets.io/) - A very good HTML & CSS editor. Feel free to find one you like. Sublime Edit, Atom, Espresso are all good.
 
 [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
 
