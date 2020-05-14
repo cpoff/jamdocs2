@@ -6,7 +6,13 @@ slug: design-components
 
 ## Style guide
 
-This portion of the site will reflect the style guide and specifications in CSS/HTML format. Look for a style tile to go here in the coming days.
+![Approved - 5/14/20](RTA_Style_Guide_v2_051420.jpg)
+
+## Layouts
+
+![Homepage](/RTA_Wireframe_Homepage.jpg)
+![Category page](/RTA_Wireframe_Category.jpg)
+![Article/Post page](/RTA_Wireframe_ArticlePost.jpg)
 
 Kristin will also produce these CSS assets in Generate Press:
 
