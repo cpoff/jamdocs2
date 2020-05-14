@@ -6,7 +6,7 @@ slug: design-components
 
 ## Style guide
 
-![Approved - 5/14/20](RTA_Style_Guide_v2_051420.jpg)
+![Approved - 5/14/20](/RTA_Style_Guide_v2_051420.jpg)
 
 ## Layouts
 
