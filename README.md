@@ -54,6 +54,4 @@ See the [demo](https://jamdocs.netlify.com/), which is also the documentation, o
 
 [MIT](https://github.com/samuelhorn/jamdocs/blob/master/LICENSE)
 
-## Finally
 
-Enjoy Jamdocs, and if you like and use this project commercially, please consider sponsoring on Github since I have put a lot of spare time into this.
