@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Curt's Awesomeness",
-      "topics": [
-        {
-          "title": "Cool Stuff",
-          "slug": "coolio"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
@@ -32,6 +23,10 @@
         {
           "title": "Category Pages",
           "slug": "category-page"
+        },
+        {
+          "title": "Images",
+          "slug": "image-placements"
         },
         {
           "title": "Domain/DNS",
