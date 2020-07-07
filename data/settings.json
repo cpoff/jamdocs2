@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Curt's Awesomeness",
+      "topics": [
+        {
+          "title": "Cool Stuff",
+          "slug": "coolio"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
@@ -25,7 +34,7 @@
           "slug": "category-page"
         },
         {
-          "title": "Images",
+          "title": "Image Placements",
           "slug": "image-placements"
         },
         {

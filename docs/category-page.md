@@ -8,6 +8,20 @@ slug: category-page
 
 The Category pages utilize a variety of sections (single, two-column, and three-column modules). Go to section settings. Full width on Box type and contained for the Inner Box Type. Background color blank/none.
 
+## Breadcrumb section settings
+
+Top and Bottom Padding: 20px
+
+Box Type: Full Width, Inner Box Type: Contained
+
+### Main Well section settings
+
+Top Padding: 20
+
+Bottom Padding: 40
+
+Box Type: Full Width, Inner Box Type: Contained
+
 ### Single
 
 ```html

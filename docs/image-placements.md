@@ -1,5 +1,5 @@
 ---
-title: Images
+title: Image Placements
 date: 2020-07-07T07:42:34.000+00:00
 slug: image-placements
 ---
@@ -28,14 +28,4 @@ Insert shortcode:
 <div>[smartslider3 slider=16]</div>
 ```
 
-### Breadcrumb section settings
-Top and Bottom Padding: 20px
 
-Box Type: Full Width, Inner Box Type: Contained
-
-### Main Well section settings
-Top Padding: 20
-
-Bottom Padding: 40
-
-Box Type: Full Width, Inner Box Type: Contained
