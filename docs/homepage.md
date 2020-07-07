@@ -6,7 +6,7 @@ slug: homepage
 
 ## Sections
 
-The homepage sections include the top spot occupied by Smart Slider and a 'category' blurb, primary content, secondary content, meetings/events, then another blurb. 
+The homepage sections include the top spot occupied by Smart Slider and a 'category' blurb, primary content, secondary content, meetings/events, then another blurb. Go to section settings. Full width on Box type and contained for the Inner Box Type. Background color blank/none.
 
 ### Slider and Category blurb
 
