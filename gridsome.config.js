@@ -16,7 +16,7 @@ function addStyleResource(rule) {
 
 module.exports = {
 	siteName: 'RTA Rebuild',
-	siteUrl: 'https://vibrant-easley-0a75ca.netlify.com/',
+	siteUrl: 'https://cdocs.netlify.app/',
 	templates: {
 		Doc: '/:slug',
 	},
