@@ -6,7 +6,7 @@ slug: category-page
 
 ## Sections
 
-Go to section settings. Full width on both Box Type and Inner Box Type. Background color blank/none.
+Go to section settings. Full width on Box type and contained for the Inner Box Type. Background color blank/none.
 
 ### Section code
 
