@@ -7,10 +7,9 @@
         <Shortcut link="/run-of-show" text="Run of Show" icon="sliders-icon" />
         <Shortcut
           link="/design-components"
-          text="Design"
+          text="Design and Code"
           icon="pen-tool-icon"
         />
-        <Shortcut link="/code-extras" text="Code" icon="code-icon" />
         <Shortcut link="/domain-dns" text="Domain/DNS" icon="zap-icon" />
       </nav>
       <GitLink class="git" size="large" />

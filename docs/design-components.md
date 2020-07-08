@@ -6,7 +6,8 @@ slug: design-components
 
 ## Style guide
 
-![Approved - 5/14/20](/RTA_Style_Guide_v2_051420.jpg)
+<img src="/RTAWebStyleGuide_v2_051420-1.jpg"><br>
+<img src="/RTAWebStyleGuide_v2_051420-2.jpg">
 
 ## Layouts
 
@@ -14,10 +15,9 @@ slug: design-components
 ![Category page](/RTA_Wireframe_Category.jpg)
 ![Article/Post page](/RTA_Wireframe_ArticlePost.jpg)
 
-Kristin will also produce these CSS assets in Generate Press:
+Kristin will also produce and maintain all CSS assets in Generate Press:
 
-[RTA Main](http://rtamain.pagrtahost.kinsta.cloud/wp-content/themes/generatepress/style.css)<br>
-[RTA Next](http://rtanext.pagrtahost.kinsta.cloud/wp-content/themes/generatepress/style.css)
+[RTA master CSS](https://rtamobility.com/wp-content/themes/generatepress/style.css)<br>
 
 Several base styles are also controlled via GP's Customize controls.
 

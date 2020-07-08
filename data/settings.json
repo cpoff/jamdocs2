@@ -1,24 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Curt's Awesomeness",
-      "topics": [
-        {
-          "title": "Cool Stuff",
-          "slug": "coolio"
-        }
-      ]
-    },
-    {
-      "section": "Introduction",
-      "topics": [
-        {
-          "title": "Run of Show",
-          "slug": "run-of-show"
-        }
-      ]
-    },
-    {
       "section": "Toolkit",
       "topics": [
         {

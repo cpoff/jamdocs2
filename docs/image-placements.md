@@ -29,3 +29,17 @@ Insert shortcode:
 ```
 
 
+### Images for Posts
+For images above text
+
+Image size: 1200 x 400
+
+use “set feature image”
+
+Right aligned image in text 
+
+Image size: 400x250
+```html
+<img class="alignright" src="https://rtamobility.com/wp-content/uploads/sites/3/2020/07/400x250.jpg">
+```
+
