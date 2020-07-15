@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Documentation",
+      "topics": [
+        {
+          "title": "Meetings/Events",
+          "slug": "event-workflow"
+        }
+      ]
+    },
+    {
       "section": "Toolkit",
       "topics": [
         {
@@ -22,10 +31,6 @@
         {
           "title": "Domain/DNS",
           "slug": "domain-dns"
-        },
-        {
-          "title": "Meetings/Events",
-          "slug": "event-workflow"
         }
       ]
     }

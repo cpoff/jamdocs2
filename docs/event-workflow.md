@@ -24,4 +24,4 @@ The sole purpose of the <b style="color:green;">Green</b> category is to indicat
 
 Once approved you can also add <b>external attendees</b>. They will get a copy of the meeting invitation and all subsequent updates. Make sure you only add them at the end so that they're not getting spammed with all the minor updates to the event details.
 
-You DO NOT need to worry about publishing at any particular time. The website has front-end logic that is looking specifically for items in the <b style="color:green;">Green</b> category and are no more than 7 days in the future.
+You DO NOT need to worry about publishing at any particular time. The website has front-end logic that is looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future.
