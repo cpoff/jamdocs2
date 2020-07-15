@@ -14,6 +14,8 @@ slug: event-workflow
 - Go into Response Options and select Hide Attendee List
 - Send
 
+That creates your new meeting/event without making it visible to the public. At this point everything is still private.
+
 Two things require approvals: the associated documents, and the meeting itself. 
 - Sheila will deliver approved documents, which should be attached to the meeting in Outlook. Documents will require specific naming convention. Something like 'RTACAC - Agenda 7-1-2020.pdf'.
 - The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>.
