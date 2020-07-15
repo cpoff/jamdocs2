@@ -22,6 +22,10 @@
         {
           "title": "Domain/DNS",
           "slug": "domain-dns"
+        },
+        {
+          "title": "Meetings/Events",
+          "slug": "event-workflow"
         }
       ]
     }
