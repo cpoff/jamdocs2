@@ -1,7 +1,7 @@
 ---
-title: Category Page
+title: RTACategory Page
 date: 2020-07-07T07:42:34.000+00:00
-slug: category-page
+slug: rta-category-page
 ---
 
 ## Sections

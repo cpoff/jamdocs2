@@ -10,27 +10,23 @@
       ]
     },
     {
-      "section": "Toolkit",
+      "section": "RTA Toolkit",
       "topics": [
         {
-          "title": "Design",
-          "slug": "design-components"
+          "title": "RTA Design",
+          "slug": "rta-design-components"
         },
         {
           "title": "Homepage",
-          "slug": "homepage"
+          "slug": "rta-homepage"
         },
         {
           "title": "Category Pages",
-          "slug": "category-page"
+          "slug": "rta-category-page"
         },
         {
           "title": "Image Placements",
-          "slug": "image-placements"
-        },
-        {
-          "title": "Domain/DNS",
-          "slug": "domain-dns"
+          "slug": "rta-image-placements"
         }
       ]
     }
