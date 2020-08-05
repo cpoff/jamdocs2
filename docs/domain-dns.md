@@ -12,7 +12,7 @@ The [network home](http://pagrtahost.kinsta.cloud/wp-admin/network/) appears as 
 
 ## Update a child site to the PAG/RTA network
 
-On GoDaddy, create A records in the DNS pointing to the site IP address. Jeff has sole access to GoDaddy.
+On GoDaddy, create A records in the DNS pointing to the site IP address (`35.236.52.109`). Jeff has sole access to GoDaddy.
 
 When logged in as a network/site admin in WordPress, update the Site Address URL\* to match the new A record:
 
