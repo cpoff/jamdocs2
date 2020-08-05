@@ -1,7 +1,7 @@
 ---
-title: RTA Domain/DNS
+title: Domain/DNS
 date: 2020-04-11
-slug: rta-domain-dns
+slug: domain-dns
 ---
 
 ## PAG/RTA Host
