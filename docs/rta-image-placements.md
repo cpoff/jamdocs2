@@ -1,7 +1,7 @@
 ---
-title: Image Placements
+title: RTA Image Placements
 date: 2020-07-07T07:42:34.000+00:00
-slug: image-placements
+slug: rta-image-placements
 ---
 
 
