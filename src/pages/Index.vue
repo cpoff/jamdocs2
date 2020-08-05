@@ -4,12 +4,8 @@
       <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/rta-run-of-show" text="Run of Show" icon="sliders-icon" />
-        <Shortcut
-          link="/rta-design-components"
-          text="Design and Code"
-          icon="pen-tool-icon"
-        />
+        <Shortcut link="/event-workflow" text="Events" icon="sliders-icon" />
+        <Shortcut link="/rta-design-components" text="Design and Code" icon="pen-tool-icon" />
         <Shortcut link="/rta-domain-dns" text="Domain/DNS" icon="zap-icon" />
       </nav>
       <GitLink class="git" size="large" />
