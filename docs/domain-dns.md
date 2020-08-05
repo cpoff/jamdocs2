@@ -8,7 +8,7 @@ slug: domain-dns
 
 Since we're running WordPress as multisite, we can have several sub-sites running on a single WP installation. We created a single PAG/RTA Host as the 'network' parent, then put RTA, RTA Next, PAG, and any subsequent sites as children.
 
-The [network home](http://rtaproduction.kinsta.cloud/wp-admin/network/) appears as a standalone site in the WP interface but has no Post/Pages capability. Plug-ins, themes, and other admin features are added/managed at the network level and activated/utilized at the site level.
+The [network home](http://pagrtahost.kinsta.cloud/wp-admin/network/) appears as a standalone site in the WP interface but has no Post/Pages capability. Plug-ins, themes, and other admin features are added/managed at the network level and activated/utilized at the site level.
 
 ## Update a child site to the PAG/RTA network
 
