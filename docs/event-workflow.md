@@ -9,7 +9,7 @@ slug: event-workflow
 - Create a new event
 - Select committee calendar (CAC, TMC, etc)
 - Standard date, start/end times, reminder (optional)
-- Add only internal attendees (e.g. committee chair) and no external attendees
+- Add only internal attendees (e.g. committee chair) and no external attendees. (External attendees will be added later, after the event is fully produced.)
 - Reserve conference room, or select Virtual
 - Go into Response Options, select Hide Attendee List and Allow forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
 - Send
