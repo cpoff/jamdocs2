@@ -27,10 +27,7 @@ Once approved you can also add <b>external attendees</b>. They will get a copy o
 You DO NOT need to worry about publishing at any particular time. The website has front-end logic that is looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future.
 
 ## Document naming convention
-RTACAC YYYY-MM-DD Safety Subelements Handout
-
-RTATMC YYYY-MM-DD Agenda
-
-RTACART YYYY-MM-DD Legal Actions
-
+RTACAC YYYY-MM-DD Safety Subelements Handout<br>
+RTATMC YYYY-MM-DD Agenda<br>
+RTACART YYYY-MM-DD Legal Actions<br>
 RTABoard YYYY-MM-DD Item_5A Project Delivery Status Report
