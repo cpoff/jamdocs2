@@ -65,7 +65,7 @@ The Regional Transportation Authority is an independent taxing district within P
 ### Meetings and Events
 ```html
 <h2>Meetings and Events</h2>
-[o365_outlook_events calendarid="AQMkADk1YTI3ZWRmLTdhOGMtNDg2MS05MWEzLWQ2YzVkMWM0MjIAYjkARgAAA8sJM_FSeFxJsmJxjttdKGQHADjzOxcBHwlMpijTPuY33dcAAAIBBgAAADjzOxcBHwlMpijTPuY33dcAAAIVegAAAA==, AQMkADk1YTI3ZWRmLTdhOGMtNDg2MS05MWEzLWQ2YzVkMWM0MjIAYjkARgAAA8sJM_FSeFxJsmJxjttdKGQHADjzOxcBHwlMpijTPuY33dcAAAIBBgAAADjzOxcBHwlMpijTPuY33dcAAAIVewAAAA==, AAMkADk1YTI3ZWRmLTdhOGMtNDg2MS05MWEzLWQ2YzVkMWM0MjJiOQBGAAAAAADLCTPhUnhcSbJicY7bXShkBwA48zsXAR8JTKYo0z7mN93XAAAAAAEGAAA48zsXAR8JTKYo0z7mN93XAAAJW14PAAA=, AAMkADk1YTI3ZWRmLTdhOGMtNDg2MS05MWEzLWQ2YzVkMWM0MjJiOQBGAAAAAADLCTPhUnhcSbJicY7bXShkBwA48zsXAR8JTKYo0z7mN93XAAAAAAEGAAA48zsXAR8JTKYo0z7mN93XAAAJW14QAAA=" userid="1cd709cb-f863-4cb1-bac6-9de04e8a3f55" template="listv1_tpl.php" id="upcoming_events" columns="start,end,location,body,subject,categories,id,isAllDay" maxresults="3" type="future" timezone="America/Phoenix" userbinding="no" showreadmore="yes" showcountdown="no" showmap="no" category="Green category" eventnumofdays="7" attachment="yes"]
+[o365_outlook_events calendarid="CALENDAR ID#" userid="1cd709cb-f863-4cb1-bac6-9de04e8a3f55" template="listv1_tpl.php" id="upcoming_events" columns="start,end,location,body,subject,categories,id,isAllDay" maxresults="3" type="future" timezone="America/Phoenix" userbinding="no" showreadmore="yes" showcountdown="no" showmap="no" category="Green category" eventnumofdays="7" attachment="yes"]
 <a href="/get-involved/events/">Full calendar »</a>
 ```
 
