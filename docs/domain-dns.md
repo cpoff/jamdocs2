@@ -16,9 +16,10 @@ On GoDaddy, create A records in the DNS pointing to the site IP address. Jeff ha
 
 When logged in as a network/site admin in WordPress, update the Site Address URL\* to match the new A record:
 
-- [RTA Main](http://rtaproduction.kinsta.cloud/wp-admin/network/site-info.php?id=4)
-- [RTA Next](http://rtaproduction.kinsta.cloud/wp-admin/network/site-info.php?id=2)
-- [PAG Main](http://rtaproduction.kinsta.cloud/wp-admin/network/site-info.php?id=3)
+- [PAG Main](https://pagrtahost.kinsta.cloud/wp-admin/network/site-info.php?id=6)
+- [RTA Main](https://pagrtahost.kinsta.cloud/wp-admin/network/site-info.php?id=3)
+- [RTA Next](https://pagrtahost.kinsta.cloud/wp-admin/network/site-info.php?id=7)
+- [Sabino Canyon Crawler](https://pagrtahost.kinsta.cloud/wp-admin/network/site-info.php?id=8)
 
 \*This should be the final URL you want to appear in the location bar.
 
