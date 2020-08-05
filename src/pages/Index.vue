@@ -28,7 +28,7 @@ export default {
   },
   data() {
     return {
-      description: "project homepage"
+      description: "documentation"
     };
   },
   metaInfo() {
