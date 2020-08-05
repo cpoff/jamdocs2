@@ -11,7 +11,7 @@ slug: event-workflow
 - Standard date, start/end times, reminder (optional)
 - Add only internal attendees (e.g. committee chair) and no external attendees
 - Reserve conference room, or select Virtual
-- Go into Response Options and select Hide Attendee List
+- Go into Response Options, select Hide Attendee List and Allow forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
 - Send
 
 That creates your new meeting/event without making it visible to the public. At this point everything is still private.
