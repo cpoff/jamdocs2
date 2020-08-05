@@ -27,6 +27,10 @@
         {
           "title": "Image Placements",
           "slug": "rta-image-placements"
+        },
+        {
+          "title": "Domain/DNS",
+          "slug": "rta-domain-dns"
         }
       ]
     }
