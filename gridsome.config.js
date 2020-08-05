@@ -15,7 +15,7 @@ function addStyleResource(rule) {
 }
 
 module.exports = {
-	siteName: 'RTA Rebuild+',
+	siteName: 'PAG+RTA site documentation',
 	siteUrl: 'https://cdocs.netlify.app/',
 	templates: {
 		Doc: '/:slug',
