@@ -13,7 +13,7 @@
       "section": "RTA Toolkit",
       "topics": [
         {
-          "title": "RTA Design",
+          "title": "RTA Designs",
           "slug": "rta-design-components"
         },
         {
@@ -27,10 +27,6 @@
         {
           "title": "RTA Image Placements",
           "slug": "rta-image-placements"
-        },
-        {
-          "title": "Domain/DNS",
-          "slug": "rta-domain-dns"
         }
       ]
     }
