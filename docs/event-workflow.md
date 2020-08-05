@@ -35,4 +35,4 @@ RTATMC YYYY-MM-DD Agenda<br>
 RTACART YYYY-MM-DD Legal Actions<br>
 RTABoard YYYY-MM-DD Item_5A Project Delivery Status Report
 
-*NOTE:* No punctuation is allowed except dash (-) and underscore (_). No exceptions.
+**NOTE:** No punctuation is allowed except dash (-) and underscore (_). No exceptions.
