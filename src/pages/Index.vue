@@ -6,7 +6,7 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/event-workflow" text="Events" icon="sliders-icon" />
         <Shortcut link="/rta-design-components" text="Design and Code" icon="pen-tool-icon" />
-        <Shortcut link="/rta-domain-dns" text="Domain/DNS" icon="zap-icon" />
+        <Shortcut link="/domain-dns" text="Domain/DNS" icon="zap-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
