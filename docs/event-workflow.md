@@ -29,10 +29,11 @@ You DO NOT need to worry about publishing at any particular time. The website ha
 ## Document naming convention
 It's roughly COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS. 
 
+**NOTE:** No punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
+
 Examples:<br>
 RTACAC YYYY-MM-DD Safety Subelements Handout<br>
 RTATMC YYYY-MM-DD Agenda<br>
 RTACART YYYY-MM-DD Legal Actions<br>
 RTABoard YYYY-MM-DD Item_5A Project Delivery Status Report
 
-**NOTE:** No punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
