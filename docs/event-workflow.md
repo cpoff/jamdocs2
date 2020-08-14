@@ -18,16 +18,16 @@ That creates your new meeting/event without making it visible to the public. At 
 
 Two things require approvals: the associated documents, and the meeting itself. 
 - Sheila will deliver approved documents, which should be attached to the meeting in Outlook. Documents will require specific naming convention. [See below](/event-workflow#document-naming-convention)
-- The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>.
+- The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>. Ideally approval will be given exactly one week in advance of the meeting itself.
 
 The sole purpose of the <b style="color:green;">Green</b> category is to indicate status, with <b style="color:green;">Green</b> being equivalent to LIVE. If it's <b style="color:green;">Green</b>, it's eligible to be viewed by the public. That's why the category should only be added once past the approvals threshold. Without the <b style="color:green;">Green</b> category it's not eligible and will not appear on the public PAG calendar. There shouldn't be any need to change the category once the docs & event are approved and set to <b style="color:green;">Green</b>.
 
-Once approved you can also add <b>external attendees</b>. They will get a copy of the meeting invitation and all subsequent updates. Make sure you only add them one week (7 days) before the meeting. Also know that they will get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
+Once the event/meeting is approved you can also add <b>external attendees</b>. They will get a copy of the meeting invitation via e-mail along with all subsequent updates to the Outlook event. Make sure you only add them one week (7 days) before the meeting. Also know that they will get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
 
-You DO NOT need to worry about publishing at any particular time. The website has front-end logic that is looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future.
+The website version of the event will be an exact mirror of the Outlook event pulled automatically via API that hhas front-end logic looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future. 
 
 ## Document naming convention
-It's roughly COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS. 
+COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS.pdf
 
 **NOTE:** No punctuation is allowed except dash (`-`) and underscore (`_`). No exceptions.
 
