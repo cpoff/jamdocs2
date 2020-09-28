@@ -7,7 +7,7 @@ slug: event-workflow
 ## Create event in Outlook Calendar
 
 - Create a new event
-- Select committee calendar (CAC, TMC, etc)
+- Select calendar: PAG-Main, RTA-Main, or PAG/RTA-Shared (appears on both)
 - Standard date, start/end times, reminder (optional)
 - Add only internal attendees (e.g. committee chair) and no external attendees. (External attendees will be added later, after the event is fully produced.)
 - Reserve conference room, or select Virtual
@@ -17,14 +17,14 @@ slug: event-workflow
 That creates your new meeting/event without making it visible to the public. At this point everything is still private.
 
 Two things require approvals: the associated documents, and the meeting itself. 
-- Sheila will deliver approved documents, which should be attached to the meeting in Outlook. Documents will require specific naming convention. [See below](/event-workflow#document-naming-convention)
-- The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>. Ideally approval will be given exactly one week in advance of the meeting itself.
+- Sheila will deliver approved documents, which should be attached to the meeting in Outlook. Documents  require specific naming convention. [See below](/event-workflow#document-naming-convention)
+- The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>. 
 
 The sole purpose of the <b style="color:green;">Green</b> category is to indicate status, with <b style="color:green;">Green</b> being equivalent to LIVE. If it's <b style="color:green;">Green</b>, it's eligible to be viewed by the public. That's why the category should only be added once past the approvals threshold. Without the <b style="color:green;">Green</b> category it's not eligible and will not appear on the public PAG calendar. There shouldn't be any need to change the category once the docs & event are approved and set to <b style="color:green;">Green</b>.
 
-Once the event/meeting is approved you can also add <b>external attendees</b>. They will get a copy of the meeting invitation via e-mail along with all subsequent updates to the Outlook event. Make sure you only add them one week (7 days) before the meeting. Also know that they will get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
+Once the event/meeting is approved you can also add <b>external attendees</b>. They will get a copy of the meeting invitation via e-mail along with all subsequent updates to the Outlook event. Make sure you only add them once the event has been fully built and approved. Attendees get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
 
-The website version of the event will be an exact mirror of the Outlook event pulled automatically via API that hhas front-end logic looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future. 
+The website version of the event will be an exact mirror of the Outlook event pulled automatically via API that has front-end logic looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future. 
 
 ## Document naming convention
 COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS.pdf
