@@ -14,7 +14,7 @@ slug: event-workflow
 - Go into Response Options, select Hide Attendee List* and Allow forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
 - Send
 
-*The Hide Attendee List is only availale using Outlook Office 365 (web version). 
+* The Hide Attendee List is only availale using Outlook Office 365 (web version). 
 
 That creates your new meeting/event without making it visible to the public. At this point everything is still private.
 
