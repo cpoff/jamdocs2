@@ -19,8 +19,8 @@ slug: event-workflow
 That creates your new meeting/event without making it visible to the public. At this point everything is still private.
 
 Two things require approvals: the associated documents, and the meeting itself. 
-- Sheila will deliver approved documents through a separate workflow, and those docs will be attached to the meeting in Outlook. Documents require specific naming convention. [See below](/event-workflow#document-naming-convention)
-- The second approval (for the entire meeting) will also come from Sheila. Once the whole meeting is approved, go into the event in Outlook and add the <b style="color:green;">Green category</b>. 
+1. Sheila will deliver approved documents through a separate workflow, and those docs will be attached to the meeting in Outlook. Documents require specific naming convention. [See below](/event-workflow#document-naming-convention)
+2. Approval for the meeting as a whole will also come from Sheila. Once approved is given, go into the event in Outlook and add the <b style="color:green;">Green category</b>. 
 
 > The sole purpose of the <b style="color:green;">Green</b> category is to indicate status, with <b style="color:green;">Green</b> being equivalent to LIVE. If it's <b style="color:green;">Green</b>, it's eligible to be viewed by the public. That's why the category should only be added once past the approvals threshold. Without the <b style="color:green;">Green</b> category it's not eligible and will not appear on the public PAG calendar. There shouldn't be any need to change the category once the docs & event are approved and set to <b style="color:green;">Green</b>.
 
