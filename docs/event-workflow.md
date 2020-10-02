@@ -6,9 +6,9 @@ slug: event-workflow
 
 ## Create event in Outlook Calendar
 
-- Create a new event
-- Select calendar: PAG-Main, RTA-Main, or PAG/RTA-Shared (appears on both)
-- Standard date, start/end times, reminder (optional)
+- Create a new event. Best to use the Office 365 version of Outlook in a web browser.
+- Select calendar: PAG-Main, RTA-Main, or PAG/RTA-Shared (appears on both sites)
+- Add standard date, start/end times, reminder (optional)
 - Add only internal attendees (e.g. committee chair) and no external attendees. (External attendees will be added later, after the event is fully produced.)
 - Reserve conference room, or select Virtual
 - Go into Response Options, select Hide Attendee List&#42; and Allow Forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
@@ -20,9 +20,9 @@ That creates your new meeting/event without making it visible to the public. At 
 
 Two things require approvals: the associated documents, and the meeting itself. 
 
-1. Sheila will deliver approved documents through a separate workflow, and those docs will be attached to the meeting in Outlook. Documents require specific naming convention. [See below](/event-workflow#document-naming-convention)
+1. Sheila will deliver approved documents through a separate workflow, and those docs should be attached to the meeting in Outlook. Documents require specific naming convention. [See below](/event-workflow#document-naming-convention)
 
-2. Approval for the meeting as a whole will also come from Sheila. Once approved is given, go into the event in Outlook and add the <b style="color:green;">Green category</b>. 
+2. Approval for the meeting as a whole (the final go-ahead) will also come from Sheila. Once approved is given, go into the event in Outlook and add the <b style="color:green;">Green category</b>. 
 
 > The sole purpose of the <b style="color:green;">Green</b> category is to indicate status, with <b style="color:green;">Green</b> being equivalent to LIVE. If it's <b style="color:green;">Green</b>, it's eligible to be viewed by the public. That's why the category should only be added once past the approvals threshold. Without the <b style="color:green;">Green</b> category it's not eligible and will not appear on the public PAG calendar. There shouldn't be any need to change the category once the docs & event are approved and set to <b style="color:green;">Green</b>.
 
