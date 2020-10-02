@@ -11,10 +11,10 @@ slug: event-workflow
 - Standard date, start/end times, reminder (optional)
 - Add only internal attendees (e.g. committee chair) and no external attendees. (External attendees will be added later, after the event is fully produced.)
 - Reserve conference room, or select Virtual
-- Go into Response Options, select Hide Attendee List* and Allow forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
+- Go into Response Options, select Hide Attendee List&dagger; and Allow forwarding. Leave Request Responses unchecked for virtual meetings and checked if we host the meeting at PAG. 
 - Send
 
-* The Hide Attendee List is only availale using Outlook Office 365 (web version). 
+&dagger; The Hide Attendee List is only available using Outlook Office 365 (web version). 
 
 That creates your new meeting/event without making it visible to the public. At this point everything is still private.
 
