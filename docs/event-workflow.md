@@ -7,7 +7,7 @@ slug: event-workflow
 ## Create event in Outlook Calendar
 
 - Create a new event. Best to use the Office 365 version of Outlook in a web browser.
-- Select calendar: PAG-Main, RTA-Main, or PAG/RTA-Shared (appears on both sites)
+- Select site calendar where you want the event to appear: PAG-Main, RTA-Main (includes RTA & RTAnext), or PAG/RTA-Shared (appears on both sites)
 - Add standard date, start/end times, reminder (optional)
 - Add only internal attendees (e.g. committee chair) and no external attendees. (External attendees will be added later, after the event is fully produced.)
 - Reserve conference room, or select Virtual
