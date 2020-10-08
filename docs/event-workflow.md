@@ -49,4 +49,4 @@ What calendars appears on each site:
 
 **PAG**: : PAG-Main, PAG/RTA-Shared<br>
 **RTA**: RTA-Main, PAG/RTA-Shared<br>
-**RTA** Next: RTA-Main, PAG/RTA-Shared
+**RTA Next**: RTA-Main, PAG/RTA-Shared
