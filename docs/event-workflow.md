@@ -47,6 +47,6 @@ PAGTIPSUB YYYY-MM-DD Presentation_1 Slides That Were Shown
 
 What calendars appears on each site:
 
--PAG: : PAG-Main, PAG/RTA-Shared
--RTA: RTA-Main, PAG/RTA-Shared
--RTA Next: RTA-Main, PAG/RTA-Shared
+**PAG**: : PAG-Main, PAG/RTA-Shared<br>
+**RTA**: RTA-Main, PAG/RTA-Shared<br>
+**RTA** Next: RTA-Main, PAG/RTA-Shared
