@@ -43,4 +43,10 @@ RTABoard YYYY-MM-DD Item_5A Project Delivery Status Report<br>
 POPTECH YYYY-MM-DD Meeting Minutes<br>
 PAGTIPSUB YYYY-MM-DD Presentation_1 Slides That Were Shown
 
+## Public calendars
 
+What calendars appears on each site:
+
+-PAG: : PAG-Main, PAG/RTA-Shared
+-RTA: RTA-Main, PAG/RTA-Shared
+-RTA Next: RTA-Main, PAG/RTA-Shared
