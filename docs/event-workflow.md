@@ -26,9 +26,9 @@ Two things require approvals: the associated documents, and the meeting itself.
 
 > The sole purpose of the <b style="color:green;">Green</b> category is to indicate status, with <b style="color:green;">Green</b> being equivalent to LIVE. If it's <b style="color:green;">Green</b>, it's eligible to be viewed by the public. That's why the category should only be added once past the approvals threshold. Without the <b style="color:green;">Green</b> category it's not eligible and will not appear on the public calendars. There shouldn't be any need to change the category once the docs & event are approved and set to <b style="color:green;">Green</b>.
 
-After <b style="color:green;">Green</b> has been applied, you can start adding <b>external attendees</b>. They will get a copy of the meeting invitation via e-mail along with all subsequent updates to the Outlook event. Make sure you only add them once the event has been fully built and approved. Attendees get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
+After <b style="color:green;">Green</b> has been applied, you can start adding <b>external attendees</b>. They will get a copy of the meeting invitation via e-mail along with all subsequent updates to the Outlook event. Make sure you only add them once the event has been fully built, edited, and approved. Attendees get every subsequent update to the meeting/event invitation in Outlook, no matter how minor. So make sure you have 100% sign off on the original pre-event invitation as it is intended to be the only communication sent via Outlook.
 
-The website version of the event will be an exact mirror of the Outlook event pulled automatically via API that has front-end logic looking specifically for items in the <b style="color:green;">Green</b> category that are no more than 7 days in the future. 
+The website version of the event will be an exact mirror of the Outlook event pulled automatically via API that has front-end logic looking specifically for items in the <b style="color:green;">Green</b> category that are no more than **7 days** in the future. 
 
 ## Document naming convention
 COMMITTEE ACRONYM YYYY-MM-DD TITLE OF CONTENTS.pdf
